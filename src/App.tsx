@@ -19,8 +19,8 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-8 md:px-16 h-28 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img src="https://i.ibb.co/KzzPsXjs/image.png" alt="BCON Adlabs Logo" className="h-16 w-auto" />
-            <div className="text-2xl md:text-3xl font-black tracking-tighter uppercase text-brand-midnight hidden sm:block">
-              BCONAD<span className="text-brand-cyber">LABS</span>
+            <div className="text-2xl md:text-3xl font-black tracking-tighter text-brand-midnight hidden sm:block">
+              Bcon <span className="text-brand-cyber">Adlabs</span>
             </div>
           </div>
           <nav className="hidden md:flex gap-10 text-xs font-bold uppercase tracking-[0.2em] opacity-60 text-brand-midnight">
@@ -319,8 +319,8 @@ export default function App() {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
            <div className="flex items-center gap-4">
             <img src="https://i.ibb.co/KzzPsXjs/image.png" alt="BCON Adlabs Logo" className="h-10 w-auto opacity-70" />
-            <div className="text-xl font-black tracking-tighter uppercase text-brand-white opacity-80">
-              BCONAD<span className="text-brand-cyber">LABS</span>
+            <div className="text-xl font-black tracking-tighter text-brand-white opacity-80">
+              Bcon <span className="text-brand-cyber">Adlabs</span>
             </div>
           </div>
           <div className="flex items-center gap-8 text-[10px] font-bold uppercase tracking-[0.2em] opacity-40 text-brand-white">
